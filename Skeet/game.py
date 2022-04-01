@@ -60,7 +60,7 @@ class Game(arcade.Window):
 
         self.rifle = Rifle()
         self.score = 0
-        self.message='---'
+        self.message=''
 
         self.bullets = []
 
